@@ -1,0 +1,3 @@
+example_username:example_pwd
+example_username2%!#@ :example_pwd2%!#@
+Gilad Hanania : password ahh
