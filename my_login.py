@@ -20,6 +20,9 @@ def main():
 
     # פונקציית הערבול הנתונה
     def hash_passwd(passwd):
+        """
+        return hashed 256 string
+        """
         m = hashlib.sha256()
         m.update((passwd.encode()))
         return m.hexdigest()
